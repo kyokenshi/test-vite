@@ -1,7 +1,17 @@
-import React from 'react'
+import axios from 'axios'
+import { useQuery } from 'react-query'
+
+async function fetchingPosts() {
+  const res = await axios.get('https://pokeapi.co/api/v2/pokemon/ditto')
+
+  return res.data
+}
 
 const Application = () => {
-  return <div>index</div>
+  const { data } = useQuery(['articles'], fetchingPosts)
+
+  console.log(data, 'data')
+  return <div>Application</div>
 }
 
 export default Application

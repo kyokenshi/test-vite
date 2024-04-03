@@ -1,0 +1,528 @@
+{
+  "lang": "vi",
+  "header": {
+    "menu_sidebar": {
+      "more_features": "Đăng nhập để khám phá nhiều tính năng",
+      "register": "Tôi không có tài khoản",
+      "sign_in": "Đăng nhập"
+    },
+    "navbar_link": {
+      "job": "Việc Làm",
+      "candidates": {
+        "title": "Ứng viên",
+        "applicant_management": "Quản lý theo việc đăng tuyển",
+        "bookmared_cv": "Hồ sơ đã lưu",
+        "blacklisted_cv": "Hồ sơ trong danh sách đen",
+        "deleted_cv": "Hồ sơ đã xoá",
+        "external_cv": "Hồ sơ từ nguồn ngoài",
+        "manager_by_folders_tags": "Quản lý theo thư mục và thẻ"
+      },
+      "onboarding": {
+        "title": "Onboarding",
+        "employee_management": "Quản lý Nhân Viên",
+        "edit_process": "Sửa quy trình Onboarding",
+        "form": "Mẫu thông tin Nhân Viên",
+        "surveys": "Khảo sát nhân viên",
+        "document": "Tài liệu onboarding"
+      },
+      "order": {
+        "title": "Đơn hàng",
+        "list": "Danh sách đơn hàng",
+        "share_product": "Danh sách chia sẻ sản phẩm"
+      },
+      "report": "Báo cáo",
+      "company": "Công ty"
+    },
+    "navbar_button": {
+      "post_job": "Đăng Tuyển Dụng",
+      "search_candidates": "Tìm Ứng Viên",
+      "buy": "Mua",
+      "new": "Mới",
+      "post_a_job": "Đăng tin",
+      "create_virtual_job": "Tạo việc làm ảo"
+    }
+  },
+  "sidebar": {
+    "sign_out": "Thoát",
+    "title": {
+      "Membership": "Thành viên",
+      "Account Setting": "Thiết lập tài khoản",
+      "Call to Buy": "Liên hệ mua",
+      "Consultant Info": "Tư vấn khách hàng",
+      "FAQ": "Hỏi đáp"
+    },
+    "content": {
+      "Account Management": "Quản lý tài khoản",
+      "Company Info": "Thông tin công ty",
+      "User Management": "Quản lý quyền truy cập",
+      "Activity Log": "Lịch sử hoạt động",
+      "request_management": "Quản lý yêu cầu"
+    },
+    "link": {
+      "about_us": "/company/vietnamworks?lang=vi",
+      "faq_link": "http://faq.vietnamworks.com/employers-vi/",
+      "hr_insider": "http://hrinsider.vietnamworks.com/tuyen-dung",
+      "product_catalog": "/product-catalog/catalog?lang=1",
+      "product_catalog_branding": "/product_catalog.php?lang=1",
+      "3e_ip": "http://3e-ip.vietnamworks.com/",
+      "clp": "http://clp.vietnamworks.com/",
+      "choose_services": "/choose-services",
+      "privacy_policy": "/privacy_policy.php?lang=1",
+      "security": "/security_manifesto.php?lang=1",
+      "terms_of_use": "/terms_of_use.php?lang=1",
+      "verified_by": "http://online.gov.vn/HomePage/WebsiteDisplay.aspx?DocId=17746",
+      "social_facebook_fanpage": "https://www.facebook.com/VietnamWorksFanpage",
+      "social_linkedin_fanpage": "http://www.linkedin.com/company/vietnamworks",
+      "apple_app_store": "https://itunes.apple.com/app/apple-store/id1180866051?pt=1608090&ct=mobile_landingpage&mt=8",
+      "google_play_store": "https://play.google.com/store/apps/details?id=com.vietnamworks.vietnamworks"
+    },
+    "contact": {
+      "email": "Jobsupport@vietnamworks.com",
+      "sale": {
+        "Hanoi": "Hà Nội: ",
+        "Danang": "<strong>Đà Nẵng:</strong> (84 236) 730 8181",
+        "HCMC": "Hồ Chí Minh: ",
+        "Hotline": "Đường dây nóng: ",
+        "tel_link": {
+          "Hanoi": "tel:+8439440568",
+          "Danang": "tel:+847308181",
+          "HCMC": "tel:+8439258456",
+          "Hotline": "tel:+18007100",
+          "order_online": "Đặt hàng trực tuyến"
+        }
+      }
+    }
+  },
+  "footer": {
+    "name": "Bản Quyền © Công Ty Cổ Phần Navigos Group Việt Nam",
+    "address": "Tầng 20, tòa nhà E.Town Central, 11 Đoàn Văn Bơ, Phường 13, Quận 4, TP.HCM, Việt Nam",
+    "contact_us": "Giới Thiệu",
+    "scroll_tooltip": "Lên đầu trang",
+    "title": {
+      "contact_us": "Giới Thiệu",
+      "company": "Công ty",
+      "mobile_apps": "Ứng dụng di động",
+      "subcribe_us": "Kết Nối Với VietnamWorks",
+      "verified_by": "Chứng nhận bởi"
+    },
+    "content": {
+      "about_us": "Giới Thiệu",
+      "privacy": "Bảo Mật Thông Tin",
+      "terms": "Quy Định Sử Dụng",
+      "security": "Bảo Mật",
+      "HR_Insider": "HR Insider",
+      "FAQ": "Hỏi Đáp"
+    },
+    "contact": {
+      "email": "Jobsupport@vietnamworks.com",
+      "sale": {
+        "Hanoi_title": "Hà Nội: ",
+        "Hanoi_phone": "(84 24) 3944 0568",
+        "HCM_title": "Hồ Chí Minh: ",
+        "HCM_phone": " (84 28) 3925 8456",
+        "Hotline": "<strong>Đường dây nóng:</strong> 1800 7100"
+      },
+      "tel_link": {
+        "Hanoi": "tel:+8439440568",
+        "Danang": "tel:+847308181",
+        "HCMC": "tel:+8439258456",
+        "Hotline": "tel:+18007100"
+      }
+    }
+  },
+  "footerV2": {
+    "copyright": "Bản Quyền",
+    "footer_note_1": "Công Ty Cổ Phần Navigos Group Việt Nam",
+    "footer_note_2": "Tầng 20, tòa nhà E.Town Central, 11 Đoàn Văn Bơ, Phường 13, Quận 4, TP.HCM, Vietnam"
+  },
+  "job_post_list": {
+    "quick_manage_jobs": "Quản lý nhanh tin đăng",
+    "job_title": "Tin đăng",
+    "expires": "Hết hạn trong",
+    "applications": "Hồ sơ",
+    "refresh_at": "Làm mới vào",
+    "status": "Trạng thái",
+    "show_all": "Tất cả",
+    "active": "Hiển thị",
+    "inactive": "Ẩn",
+    "request_guarantee": "Yêu cầu bảo hành",
+    "premium_services": "Dịch vụ nâng cao",
+    "share_on_facebook": "Chia sẻ trên Facebook",
+    "share_on_linkedin": "Chia sẻ lên LinkedIn",
+    "view_as_ob_seeker": "Xem trên trang Người tìm việc",
+    "view_all_jobs": "Xem tất cả việc làm",
+    "no_job_found ": "Không có việc làm nào",
+    "day": "ngày",
+    "expiring_today": "Hôm nay"
+  },
+  "recent_candidates": {
+    "title": "Ứng viên vừa cập nhật",
+    "no_candidate_found ": "Không có ứng viên nào",
+    "name": "Tên",
+    "job_title": "Tin đăng",
+    "experience": "Kinh nghiệm",
+    "location": "Vị trí",
+    "salary": "Mức lương",
+    "created": "Đã tạo",
+    "hour": "giờ",
+    "ago": "trước"
+  },
+  "link": {
+    "about_us": "/company/navigosgroup?lang=vi",
+    "faq_link": "https://faq.vietnamworks.com/employers-vi/",
+    "hr_insider": "https://hrinsider.vietnamworks.com/nha-tuyen-dung",
+    "product_catalog": "/product-catalog/catalog?lang=1",
+    "product_catalog_branding": "/product_catalog?lang=1",
+    "3e_ip": "https://3e-ip.vietnamworks.com/eng",
+    "choose_services": "/choose-services",
+    "privacy_policy": "/privacy_policy?lang=2",
+    "operation_ecommerce": "/operation_ecommerce?lang=1",
+    "terms_of_use": "/terms_of_use?lang=2",
+    "verified_by": "http://online.gov.vn/HomePage/WebsiteDisplay.aspx?DocId=17746",
+    "social_facebook_fanpage": "https://www.facebook.com/VietnamWorksFanpage",
+    "social_linkedin_fanpage": "https://www.linkedin.com/company/vietnamworks",
+    "apple_app_store": "https://itunes.apple.com/app/apple-store/id1180866051?pt=1608090&ct=mobile_landingpage&mt=8",
+    "google_play_store": "https://play.google.com/store/apps/details?id=com.vietnamworks.vietnamworks"
+  },
+  "cart": {
+    "buy_now": "Mua ngay",
+    "no_item_found": "Chưa có sản phẩm",
+    "view_cart": "Xem giỏ hàng",
+    "items_in_cart": "Có <b>${numberItems}</b> sản phẩm trong giỏ",
+    "has_item_1": "Có",
+    "has_item_2": "sản phẩm trong giỏ"
+  },
+  "dashboard": {
+    "activity_log": {
+      "title": "Lịch sử hoạt động",
+      "no_activity": "Không có hoạt động nào",
+      "col_datetime": "Ngày/giờ",
+      "col_author": "Người dùng",
+      "col_function": "Chức năng",
+      "col_action": "Hoạt động chi tiết",
+      "all_activity": "Xem tất cả hoạt động",
+      "view_more": "Xem thêm",
+      "view_less": "Thu gọn"
+    },
+    "job_post_list": {
+      "quick_manage_jobs": "Quản lý nhanh tin đăng",
+      "job_title": "Tin đăng",
+      "expires": "Hết hạn trong",
+      "applications": "Hồ sơ",
+      "refresh_at": "Làm mới vào",
+      "status": "Trạng thái",
+      "show_all": "Tất cả",
+      "active": "Hiển thị",
+      "inactive": "Ẩn",
+      "request_guarantee": "Yêu cầu bảo hành",
+      "premium_services": "Dịch vụ nâng cao",
+      "share_on_facebook": "Chia sẻ trên Facebook",
+      "share_on_linkedin": "Chia sẻ lên LinkedIn",
+      "view_as_ob_seeker": "Xem trên trang Người tìm việc",
+      "view_all_jobs": "Xem tất cả việc làm",
+      "no_job_found": "Không có việc làm nào",
+      "edit_job": "Chỉnh sửa việc làm",
+      "more_actions": "Thêm tác vụ",
+      "anonymous": "Ẩn Danh",
+      "inactivate_title": "Tắt hiển thị việc làm",
+      "inactivate_message": "Nếu tiếp tục công việc của bạn sẽ không được hiển thị",
+      "inactivate_button": "Tắt",
+      "cancel_button_joblist": "Huỷ",
+      "inactivate_success_title": "Đã tắt!",
+      "inactivate_success_message": "Việc làm này đã được tắt hiển thị",
+      "activate_title": "Bật hiển thị việc làm",
+      "activate_message": "Bật hiển thị việc làm này?",
+      "activate_button": "Bật",
+      "activate_success_title": "Đã bật!",
+      "activate_success_message": "Việc làm của bạn sẽ được hiển thị lại trong 10 phút tới",
+      "error_title": "Lỗi",
+      "error_message": "Xin lỗi, có sự cố đã xảy ra.",
+      "expiring_today": "Hôm nay"
+    },
+    "recent_candidates": {
+      "title": "Ứng viên vừa cập nhật",
+      "no_candidate_found": "Không có ứng viên nào",
+      "name": "Tên",
+      "job_title": "Tiêu đề",
+      "experience": "Kinh nghiệm",
+      "location": "Vị trí",
+      "salary": "Lương",
+      "updated": "Cập nhật",
+      "years": "năm",
+      "months": "tháng",
+      "weeks": "tuần",
+      "days": "ngày",
+      "minutes": "phút",
+      "seconds": "giây",
+      "hours": "giờ",
+      "ago": "trước",
+      "negotiable": "Thỏa thuận"
+    },
+    "job_status": {
+      "title": "Trạng thái tin đăng",
+      "active": "Đang hiển thị",
+      "inactive": "Đang ẩn",
+      "expired": "Hết hạn",
+      "drafts": "Nháp",
+      "expires_7_days": "Hết hạn trong 7 ngày",
+      "virtual_job": "Việc làm ảo"
+    },
+    "current_chart": {
+      "title": "Tình trạng hiện tại",
+      "file_name": "Bao_Cao_Trang_Thai_Hien_Tai.xlsx",
+      "no_data": "Không có dữ liệu cho báo cáo này",
+      "view_all_reports": "Xem tất cả báo cáo",
+      "all_jobs": "Tất cả việc làm",
+      "no_Permission": "Bạn không có quyền truy cập phần này"
+    },
+    "membership_info": {
+      "title": "Thông tin khách hàng thân thiết",
+      "rank": "Hạng",
+      "no_member": "Chưa có thành viên",
+      "silver": "Bạc",
+      "gold": "Vàng",
+      "platinum": "Bạch Kim",
+      "diamond": "Kim Cương",
+      "value": "Giá trị",
+      "vnd": "VNĐ",
+      "status": "Trạng thái",
+      "need_more": "Cần mua thêm",
+      "more_to_upgrade": "để lên hạng",
+      "notice_level_diamond": "Bạn đã đạt hạng cao nhất của chương trình CLP",
+      "more_info": "Tìm hiểu thêm về Chương trình Khách hàng thân thiết",
+      "tool_tip_info": "Giá trị mà bạn đã chi cho các dịch vụ của chúng tôi như đăng tuyển, tìm kiếm sơ yếu lý lịch,..."
+    },
+    "promotion": {
+      "title": "Có sản phẩm mới",
+      "sub_title": "Bắt đầu tìm kiếm tài năng ngay với các sản phẩm của chúng tôi.",
+      "buy_now": "Mua ngay"
+    },
+    "widget": {
+      "welcome": "Xin chào,",
+      "some_tip": "Đây là một số thông tin để bạn có thể bắt đầu sử dụng:",
+      "faq_tutorials": "FAQ/Hướng dẫn sử dụng",
+      "explore_products": "Khám phá sản phẩm"
+    },
+    "credit_balance": {
+      "credit_Balence": "Điểm khả dụng",
+      "post_job_credits": "Điểm đăng tuyển",
+      "resume_credit": "Điểm xem hồ sơ"
+    },
+    "announcement_popup": {
+      "popup_title": "What's new",
+      "hyperlink": "Hyperlink"
+    }
+  },
+  "FAB": {
+    "feedback": {
+      "title_inner": "Góp ý",
+      "link": "https://forms.gle/NskqsAbdHtwXrHEw7"
+    },
+    "hiring_survey_form": {
+      "title_inner": "Khảo sát nhu cầu tuyển dụng"
+    }
+  },
+  "survey_form": {
+    "title_tell_us": "Nhu cầu tuyển dụng của bạn",
+    "title_success": "Chúc mừng",
+    "sub_title": "Tài khoản đã được tạo thành công.",
+    "sub_title_2": "Hãy kiểm tra thư kích hoạt để hoàn thành bước đăng ký",
+    "sub_tell_us": "Hãy cho chúng tôi biết nhu cầu tuyển dụng của bạn để nhận được những ưu đãi tốt nhất.",
+    "title_purposeHiring": "Bạn muốn làm gì trên VietnamWorks?",
+    "title_jobTitle": "Bạn đang tuyển dụng những vị trí nào?",
+    "validate_required_jobTitle": "Hãy nhập ít nhất một chức danh",
+    "error_noOptions_jobTitle": "Chỉ nhập chức danh có trong danh sách đề xuất",
+    "error_maxLimit_jobTitle": "Chỉ chọn tối đa 3 chức danh",
+    "loading_jobTitle": "Tìm kiếm...",
+
+    "title_jobLevel": "Cấp bậc bạn đang muốn tuyển?",
+    "placeholder_jobLevel": "Chọn cấp bậc",
+    "validate_required_jobLevel": "Hãy chọn ít nhất một cấp bậc",
+
+    "title_totalBuget": "Tổng ngân sách dành cho tuyển dụng",
+    "placeholder_totalBuget": "Chọn mức ngân sách",
+    "validate_required_totalBuget": "Hãy chọn một mức ngân sách",
+
+    "label_postJob": "Đăng tuyển",
+    "label_searchResume": "Tìm kiếm hồ sơ",
+    "label_more_than": "Nhiều hơn",
+    "label_less_than": "Ít hơn",
+    "label_unit_currency": "triệu",
+
+    "alert_success_title": "Cập nhật thành công",
+    "alert_success_subtitle": "Chúng tôi sẽ điều chỉnh đề xuất phù hợp với kết quả cập nhật.",
+    "alert_error_title": "Không thể cập nhật vào lúc này. Vui lòng thử lại sau.",
+    "placeholder_jobTitle": "Nhập chức danh",
+    "placeholder_levelField": "Chọn cấp bậc",
+    "placeholder_budget": "Chọn mức ngân sách",
+    "error_jobTitle_required": "Hãy nhập ít nhất một chức danh",
+    "error_jobLevel_required": "Hãy chọn ít nhất một cấp bậc",
+    "error_budget_required": "Hãy chọn một mức ngân sách",
+    "text_read_privacy": "Tôi đã đọc và đồng ý với các",
+    "text_privacy": "Quy định bảo mật",
+    "text_term": "Thỏa thuận sử dụng",
+    "text_and": "và",
+    "btn_send": "Gửi",
+    "btn_cancel": "Huỷ",
+    "btn_save": "Lưu"
+  },
+  "resume": {
+    "tool_tip_active_seeking": "Ứng viên đang tích cực tìm việc",
+    "No_filter_details": "Chưa có thông tin cụ thể cho bộ lọc này",
+    "Nationalities": "Quốc tịch",
+    "Age": "Tuổi",
+    "Update_date": "Ngày cập nhật",
+    "Form": "Từ",
+    "to": "đến",
+    "year_of_experience": "năm kinh nghiệm",
+    "Please_input_a_keyword_or_set_criteria_for_your_search": "Vui lòng nhập từ khóa hoặc đặt tiêu chí cho tìm kiếm của bạn",
+    "Email_alert_for_your_save_search_is_OFF": "Thông báo qua email cho tìm kiếm lưu của bạn đang TẮT",
+    "Email_alert_for_your_save_search_is_ON": "Thông báo qua email cho tìm kiếm lưu của bạn đang BẬT",
+    "Remove_this_saved_search": "Chú Ý",
+    "Are_you_sure_to_remove_this_saved_search": "Bạn có muốn xoá ghi nhớ này ?",
+    "Yes": "Xác nhận",
+    "Cancel": "Hủy bỏ",
+    "filter": "Bộ lọc",
+    "note_last_page": "*Chúng tôi chỉ hiển thị kết quả tìm kiếm đến đây do độ liên quan của những kết quả còn lại quá thấp với tìm kiếm của bạn. Hãy thử sử dụng bộ lọc hoặc tìm kiếm bằng tiêu chí khác.",
+    "categories": "Ngành nghề",
+    "note_select_itemCategory": "Bạn chỉ có thể chọn 3 mục",
+    "negotiable": "Thương lượng",
+    "add_new_folder_message": "<strong>Thành công</strong><br>Hồ sơ đã chuyển vào thư mục",
+    "remove_new_folder_message": "<strong>Thành công</strong><br>Hồ sơ đã được xoá lưu trữ",
+    "error_new_folder_message": "<strong>Lỗi</strong><br>Xin hãy chọn thư mục",
+    "add_new_folder": "Tạo thư mục mới",
+    "all": "Tất cả",
+    "sort": "Sắp xếp",
+    "sortby": "Sắp xếp",
+    "active_seeking": "Active Seeking",
+    "attached_cv": "Hồ sơ đính kèm",
+    "latest_company": "Công ty hiện tại",
+    "just_updated": "Vừa cập nhật",
+    "updated": "Cập nhật",
+    "buy": "Mua gói",
+    "search_package": "Tìm kiếm ứng viên",
+    "to_view_full_information": "để xem đầy đủ thông tin",
+    "year_of_experience": "Năm kinh nghiệm",
+    "years": "năm",
+    "expected_salary": "Mức lương mong muốn",
+    "location": "Địa điểm",
+    "viewed": "Đã xem",
+    "select_folder": "Chọn thư mục",
+    "close": "Đóng",
+    "save": "Lưu tìm kiếm",
+    "save_btn": "Lưu",
+    "result_found": "kết quả tìm kiếm",
+    "results_found": "kết quả tìm kiếm",
+    "search_by_company": "Tìm kiếm theo công ty",
+    "search_by": "Tìm kiếm theo",
+    "search_note_1": "Bạn có thể tìm kiếm bằng cách thêm điều kiện AND OR NOT",
+    "search_note_2": "( ) * để lọc ra kết quả chính xác hơn. Xem chi tiết",
+    "here": "tại đây",
+    "search": "Tìm kiếm",
+    "search_note_3": "Use",
+    "search_note_4": ". E.g.",
+    "search_note_5": "IT director",
+    "search_note_6": "to perform an exact search.",
+    "see_more_search_tips": "See more search tips",
+    "choose_categories": "Chọn ngành nghề",
+    "expected_working_locations": "Nơi làm việc mong muốn",
+    "cities_provinces": "Tỉnh/Thành phố",
+    "choose_locations": "Chọn địa điểm...",
+    "home_address": "Địa chỉ nhà",
+    "choose_home_address": "Chọn địa chỉ nhà...",
+    "district": "Quận",
+    "choose_district": "Chọn quận...",
+    "last_resume_update": "Lần cuối cập nhật hồ sơ",
+    "years_of_experience": "Năm kinh nghiệm",
+    "from": "Từ",
+    "to": "Đến",
+    "salary_range": "Mức lương",
+    "job_level": "Cấp bậc",
+    "language": "Ngoại ngữ",
+    "any": "Bất kỳ",
+    "language_proficiency": "Trình độ ngoại ngữ",
+    "education": "Trình độ học vấn",
+    "nationality": "Quốc tịch",
+    "gender": "Giới tính",
+    "male": "Nam",
+    "female": "Nữ",
+    "age": "Tuổi",
+    "saved_search": "Lưu Tìm Kiếm",
+    "email_alert": "Email alert",
+    "product_manager": "Product Manager",
+    "single": "Single",
+    "cancel": "Cancel",
+    "apply_filter": "Apply Filter",
+    "expected_position": "Expected Position",
+    "expected_job_level": "Cấp bậc",
+    "birth_day": "Birth day",
+    "marital_status": "Marital status",
+    "latest_position": "Latest position",
+    "highest_education": "Trình độ học vấn",
+    "job_categories": "Ngành nghề",
+    "job_location": "Địa điểm",
+    "reset_all": "Cài đặt lại",
+    "credit_used": "Đã mua",
+    "copyright": "Bản Quyền",
+    "footer_note_1": "Công Ty Cổ Phần Navigos Group Việt Nam",
+    "footer_note_2": "Tầng 20, tòa nhà E.Town Central, 11 Đoàn Văn Bơ, Phường 13, Quận 4, TP.HCM, Vietnam",
+    "no_data_1": "Từ khóa",
+    "no_data_2": "và bộ lọc bạn đang dùng không tìm thấy được hồ sơ ứng viên nào.",
+    "no_data_3": "Xin chắc chắn rằng các từ khóa được viết đúng chính tả, sử dụng từ khóa khác hoặc dùng bộ lọc thông dụng hơn.",
+    "successfully_deleted": "Đã xóa thành công",
+    "please_try_again": "Vui lòng thử lại!",
+    "successfully_saved": "Lưu thành công. Cảnh báo qua email cho tìm kiếm lưu của bạn đang BẬT",
+    "validate_year": "Số năm kinh nghiệm phải được nhập từ thấp đến cao",
+    "validate_salary": "Mức lương phải được nhập từ thấp đến cao",
+    "validate_age": "Độ tuổi phải được nhập từ thấp đến cao",
+    "save_folder": "Lưu",
+    "faq_link": "https://faq.vietnamworks.com/employers-vi/tim-ho-so/tim-kiem-ho-so-phien-ban-moi",
+    "view_detail": "Hồ sơ chi tiết"
+  },
+  "notifica_center":{
+    "Notification":"Thông báo",
+    "Delete":"Xoá",
+    "Mark_as_read":"Đánh dấu đã đọc",
+    "Mark_as_unread":"Đánh dấu chưa đọc",
+    "Mark_all_as_read":"Đánh dấu đã đọc tất cả",
+    "All":"Tất cả",
+    "Undread":"Chưa đọc",
+    "No_notification_found":"Không tìm thấy thông báo",
+    "Notification_setting":"Cài đặt thông báo",
+    "Manage_how_you_receive_notifications":"Quản lý tất cả thông báo bạn muốn nhận được",
+    "Account_Management":{
+      "title":"Quản Lý Tài Khoản",
+      "content":"Được thông báo về những thay đổi đối với cài đặt tài khoản, cập nhật hồ sơ và các hoạt động khác liên quan đến tài khoản và tài khoản phụ của bạn"
+    },
+    "Job_Posting_&_Hiring_Process":{
+      "title":"Quản Lý Quy Trình Tuyển Dụng Và Đăng Tin",
+      "content":"Nhận thông báo về các cập nhật mới, tính năng trong công việc đã đăng và quy trình tuyển dụng"
+    },
+    "Product_and_Order_Management":{
+      "title":"Quản Lý Đơn Hàng và Sản Phẩm",
+      "content":"Nhận thông báo về các sản phẩm hoặc dịch vụ sắp hết hạn để tránh gián đoạn dịch vụ và các thông báo về Quản lý đơn hàng"
+    },
+    "Resume_Management":{
+      "title":"Quản Lý Hồ Sơ Ứng Viên",
+      "content":"Khám phá các hồ sơ ứng viên được đề xuất được cá nhân hóa dựa trên thói quen của bạn"
+    },
+    "Application_Management":{
+      "title":"Quản Lý Hồ Sơ Ứng Tuyển",
+      "content":"Đảm bảo bạn được thông báo kịp thời về Quản lý hồ sơ ứng tuyển"
+    },
+    "Onboarding_Process":{
+      "title":"Quy Trình Nhận Việc",
+      "content":"Luôn được thông báo về Quản lý quy trình nhân việc"
+    },
+    "Reward_and_Memberships_Program":{
+      "title":"Chương Trình Thành Viên Và Quà Tặng",
+      "content":"Nhận thông báo về các phần thưởng độc quyền và ưu đãi của chương trình thành viên được thiết kế riêng cho bạn."
+    },
+    "note":{
+      "title":"Lưu ý: ",
+      "content":"Thông báo sẽ tự động bị xóa sau 60 ngày"
+    },
+    "save_success":"Thành công",
+    "save_false":"Thất Bại"
+  }
+}

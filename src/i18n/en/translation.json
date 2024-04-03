@@ -1,0 +1,516 @@
+{
+  "lang": "en",
+  "header": {
+    "menu_sidebar": {
+      "more_features": "Sign in to explore more features",
+      "register": "I don’t have an account",
+      "sign_in": "Sign in"
+    },
+    "navbar_link": {
+      "job": "Jobs",
+      "candidates": {
+        "title": "Candidates",
+        "applicant_management": "Manage by job post (AMS)",
+        "bookmared_cv": "Credit Used CV",
+        "blacklisted_cv": "Blacklisted CV",
+        "deleted_cv": "Deleted CV",
+        "external_cv": "CV from other sources",
+        "manager_by_folders_tags": "Manager by folders and tags"
+      },
+      "onboarding": {
+        "title": "Onboarding",
+        "employee_management": "Employee management",
+        "edit_process": "Edit onboarding process",
+        "form": "Form",
+        "surveys": "Surveys",
+        "document": "Onboarding documents"
+      },
+      "order": {
+        "title": "Order",
+        "list": "Order list",
+        "share_product": "Share product list"
+      },
+      "report": "Report",
+      "company": "Company"
+    },
+    "navbar_button": {
+      "post_job": "Post job",
+      "search_candidates": "Search candidates",
+      "buy": "Buy",
+      "new": "New",
+      "post_a_job": "Post Job",
+      "create_virtual_job": "Create Virtual Job"
+    }
+  },
+  "sidebar": {
+    "sign_out": "Sign out",
+    "title": {
+      "Membership": "Membership",
+      "Account Setting": "Account Setting",
+      "Call to Buy": "Call to Buy",
+      "Consultant Info": "Consultant Info",
+      "FAQ": "FAQ"
+    },
+    "content": {
+      "Account Management": "Account Management",
+      "Company Info": "Company Info",
+      "User Management": "User Management",
+      "Activity Log": "Activity Log",
+      "request_management": "Request management"
+    },
+    "link": {
+      "about_us": "/company/vietnamworks?lang=en",
+      "faq_link": "http://faq.vietnamworks.com/employers-en/",
+      "hr_insider": "http://hrinsider.vietnamworks.com/tuyen-dung",
+      "product_catalog": "/product-catalog/catalog?lang=2",
+      "product_catalog_branding": "/product_catalog.php?lang=2",
+      "3e_ip": "http://3e-ip.vietnamworks.com/eng",
+      "clp": "http://clp.vietnamworks.com/",
+      "choose_services": "/choose-services",
+      "privacy_policy": "/privacy_policy.php?lang=2",
+      "security": "/security_manifesto.php?lang=2",
+      "terms_of_use": "/terms_of_use.php?lang=2",
+      "verified_by": "http://online.gov.vn/HomePage/WebsiteDisplay.aspx?DocId=17746",
+      "social_facebook_fanpage": "https://www.facebook.com/VietnamWorksFanpage",
+      "social_linkedin_fanpage": "http://www.linkedin.com/company/vietnamworks",
+      "apple_app_store": "https://itunes.apple.com/app/apple-store/id1180866051?pt=1608090&ct=mobile_landingpage&mt=8",
+      "google_play_store": "https://play.google.com/store/apps/details?id=com.vietnamworks.vietnamworks"
+    },
+    "contact": {
+      "email": "Jobsupport@vietnamworks.com",
+      "sale": {
+        "Hanoi": "Hanoi: ",
+        "Danang": "<strong>Danang:</strong> (84 236) 730 8181",
+        "HCMC": "Ho Chi Minh City: ",
+        "Hotline": "Hotline: ",
+        "tel_link": {
+          "Hanoi": "tel:+8439440568",
+          "Danang": "tel:+847308181",
+          "HCMC": "tel:+8439258456",
+          "Hotline": "tel:+18007100",
+          "order_online": "Order online"
+        }
+      }
+    }
+  },
+  "footer": {
+    "name": "Copyright © Navigos Group Vietnam Joint Stock Company",
+    "address": "Floor 20, E.Town Central, 11 Doan Van Bo Street, Ward 13 District 4, Ho Chi Minh City, Vietnam",
+    "contact_us": "Contact us",
+    "scroll_tooltip": "Back to top",
+    "title": {
+      "contact_us": "Contact us",
+      "company": "Company",
+      "mobile_apps": "Mobile Apps",
+      "subcribe_us": "Subscribe Us",
+      "verified_by": "Verified by"
+    },
+    "content": {
+      "about_us": "About us",
+      "privacy": "Privacy Statement",
+      "terms": "Terms of Use",
+      "security": "Security",
+      "HR_Insider": "HR Insider",
+      "FAQ": "FAQ"
+    },
+    "contact": {
+      "email": "Jobsupport@vietnamworks.com",
+      "sale": {
+        "Hanoi_title": "Hanoi: ",
+        "Hanoi_phone": "(84 24) 3944 0568",
+        "HCM_title": "Ho Chi Minh City: ",
+        "HCM_phone": " (84 28) 3925 8456",
+        "Hotline": "<strong>Hotline:</strong> 1800 7100"
+      },
+      "tel_link": {
+        "Hanoi": "tel:+8439440568",
+        "Danang": "tel:+847308181",
+        "HCMC": "tel:+8439258456",
+        "Hotline": "tel:+18007100"
+      }
+    }
+  },
+  "footerV2": {
+    "copyright": "Copyright",
+    "footer_note_1": "Navigos Group Vietnam Joint Stock Company",
+    "footer_note_2": "Floor 20, E.Town Central, 11 Doan Van Bo Street, Ward 12, District 4, Ho Chi Minh city, Vietnam"
+  },
+  "job_post_list": {
+    "quick_manage_jobs": "Quick manage jobs",
+    "job_title": "Job title",
+    "expires": "Expires",
+    "applications": "Applications",
+    "refresh_at": "Refresh at",
+    "status": "Status",
+    "show_all": "Show all",
+    "active": "Active",
+    "inactive": "Inactive",
+    "request_guarantee": "Request Guarantee",
+    "premium_services": "Premium Services",
+    "share_on_facebook": "Share on Facebook",
+    "share_on_linkedin": "Share on LinkedIn",
+    "view_as_ob_seeker": "View job as job seeker",
+    "view_all_jobs": "View all jobs",
+    "no_job_found ": "No job found",
+    "day": "day",
+    "expiring_today": "Expiring today"
+  },
+  "link": {
+    "about_us": "/company/navigosgroup?lang=en",
+    "faq_link": "https://faq.vietnamworks.com/employers-en/",
+    "hr_insider": "https://hrinsider.vietnamworks.com/nha-tuyen-dung",
+    "product_catalog": "/product-catalog/catalog?lang=2",
+    "product_catalog_branding": "/product_catalog?lang=2",
+    "3e_ip": "https://3e-ip.vietnamworks.com/eng",
+    "choose_services": "/choose-services",
+    "privacy_policy": "/privacy_policy?lang=2",
+    "operation_ecommerce": "/operation_ecommerce?lang=2",
+    "terms_of_use": "/terms_of_use?lang=2",
+    "verified_by": "http://online.gov.vn/HomePage/WebsiteDisplay.aspx?DocId=17746",
+    "social_facebook_fanpage": "https://www.facebook.com/VietnamWorksFanpage",
+    "social_linkedin_fanpage": "https://www.linkedin.com/company/vietnamworks",
+    "apple_app_store": "https://itunes.apple.com/app/apple-store/id1180866051?pt=1608090&ct=mobile_landingpage&mt=8",
+    "google_play_store": "https://play.google.com/store/apps/details?id=com.vietnamworks.vietnamworks"
+  },
+  "cart": {
+    "buy_now": "Buy now",
+    "no_item_found": "No items in cart",
+    "view_cart": "View cart",
+    "items_in_cart": "You have <b>${numberItems}</b> item(s) in your cart",
+    "has_item_1": "You have",
+    "has_item_2": "item(s) in your cart"
+  },
+  "dashboard": {
+    "activity_log": {
+      "title": "Activity log",
+      "no_activity": "No activity log found",
+      "col_datetime": "Date/time",
+      "col_author": "Author",
+      "col_function": "Function",
+      "col_action": "Action details",
+      "all_activity": "View all activity log",
+      "view_more": "View more",
+      "view_less": "View less"
+    },
+    "job_post_list": {
+      "quick_manage_jobs": "Quick manage jobs",
+      "job_title": "Job title",
+      "expires": "Expires",
+      "applications": "Applications",
+      "refresh_at": "Refresh at",
+      "status": "Status",
+      "show_all": "Show all",
+      "active": "Active",
+      "inactive": "Inactive",
+      "request_guarantee": "Request Guarantee",
+      "premium_services": "Premium Services",
+      "share_on_facebook": "Share on Facebook",
+      "share_on_linkedin": "Share on LinkedIn",
+      "view_as_ob_seeker": "View job as job seeker",
+      "view_all_jobs": "View all jobs",
+      "no_job_found": "No job found",
+      "edit_job": "Edit job",
+      "more_actions": "More actions",
+      "anonymous": "Anonymous",
+      "inactivate_title": "Deactivate this job?",
+      "inactivate_message": "If you proceed your job will be unpublished",
+      "inactivate_button": "Deactivate",
+      "cancel_button_joblist": "Cancel",
+      "inactivate_success_title": "Inactivated!",
+      "inactivate_success_message": "Your job has been inactivated",
+      "activate_title": "Activate Job",
+      "activate_message": "If you proceed your job will be published",
+      "activate_button": "Activate",
+      "activate_success_title": "Activated!",
+      "activate_success_message": "Your job is online in the next 10 minutes",
+      "error_title": "Error",
+      "error_message": "Something went wrong",
+      "expiring_today": "Expiring today"
+    },
+    "recent_candidates": {
+      "title": "Recently updated candidates",
+      "no_candidate_found": "No Candidate found",
+      "name": "Name",
+      "job_title": "Job title",
+      "experience": "Experience",
+      "location": "Location",
+      "salary": "Salary",
+      "updated": "Updated",
+      "years": "year(s)",
+      "months": "month(s)",
+      "weeks": "week(s)",
+      "days": "day(s)",
+      "minutes": "minute(s)",
+      "seconds": "second(s)",
+      "hours": "hour(s)",
+      "ago": "ago",
+      "negotiable": "Negotiable"
+    },
+    "job_status": {
+      "title": "Job status",
+      "active": "Active",
+      "inactive": "Inactive",
+      "expired": "Expired",
+      "drafts": "Drafts",
+      "expires_7_days": "Expires 7 days",
+      "virtual_job": "Virtual job"
+    },
+    "current_chart": {
+      "title": "Current status",
+      "file_name": "Current_Status_Report.xlsx",
+      "no_data": "There is no data for this report",
+      "all_jobs": "All jobs",
+      "view_all_reports": "View all reports",
+      "no_Permission": "You do not have permission to access this section"
+    },
+    "membership_info": {
+      "title": "Membership info",
+      "rank": "Rank",
+      "no_member": "None-member",
+      "silver": "Silver",
+      "gold": "Gold",
+      "platinum": "Platinum",
+      "diamond": "Diamond",
+      "value": "Value",
+      "vnd": "VND",
+      "status": "Status",
+      "need_more": "Need",
+      "more_to_upgrade": "more to upgrade to",
+      "notice_level_diamond": "You have reached maximum CLP Level",
+      "more_info": "Learn more about Membership Program",
+      "tool_tip_info": "The price value that you have spent for our services such as post job, resume search, etc…"
+    },
+    "promotion": {
+      "title": "Check out our products!",
+      "sub_title": "Start the search for great talents now with our new products",
+      "buy_now": "Buy now"
+    },
+    "widget": {
+      "welcome": "Welcome,",
+      "some_tip": "Here is some tip for you to start:",
+      "faq_tutorials": "FAQ/Tutorials",
+      "explore_products": "Explore our products"
+    },
+    "credit_balance": {
+      "credit_Balence": "Credit Balance",
+      "post_job_credits": "Post Job Credits",
+      "resume_credit": "Resume Credits"
+    },
+    "announcement_popup": {
+      "popup_title": "What's new",
+      "hyperlink": "Hyperlink"
+    }
+  },
+  "FAB": {
+    "feedback": {
+      "title_inner": "Feedback",
+      "link": "https://forms.gle/N1qM5rqz9SjiGDSj9"
+    },
+    "hiring_survey_form": {
+      "title_inner": "Hiring Survey form"
+    }
+  },
+  "survey_form": {
+    "title_tell_us": "Tell us about your recruitment",
+    "title_success": "Congratulations",
+    "sub_title": "You have been registered",
+    "sub_title_2": "Please check your email to complete the registration.",
+    "sub_tell_us": "Type in your requirements below to receive the best deals from us.",
+    "title_purposeHiring": "What will you mainly do on VietnamWorks?",
+    "title_jobTitle": "What position(s) are you hiring?",
+    "validate_required_jobTitle": "Please input at least one job title",
+    "error_noOptions_jobTitle": "Please only input titles in suggestion list",
+    "error_maxLimit_jobTitle": "You can add maximum 3 titles",
+    "loading_jobTitle": "Loading...",
+
+    "title_jobLevel": "What level(s) are you hiring?",
+    "placeholder_jobLevel": "Select job levels",
+    "validate_required_jobLevel": "Please select at least one level",
+
+    "title_totalBuget": "What's the budget you are hiring with",
+    "placeholder_totalBuget": "Select your budget",
+    "validate_required_totalBuget": "Please select a budget",
+
+    "label_postJob": "Post job",
+    "label_searchResume": "Search for resume",
+    "label_more_than": "More than",
+    "label_less_than": "Less than",
+    "label_unit_currency": "million",
+
+    "alert_success_title": "Update Successful",
+    "alert_success_subtitle": "We will adjust our recommendations based on your answers.",
+    "alert_error_title": "Cannot update at this time. Please try again later.",
+    "placeholder_jobTitle": "Input job titles",
+    "placeholder_levelField": "Select job levels",
+    "placeholder_budget": "Select your budget",
+    "error_jobTitle_required": "Please input at least one job title",
+    "error_jobLevel_required": "Please select at least one level",
+    "error_budget_required": "Please select a budget",
+    "text_read_privacy": "I've read & accept VietnamWorks ",
+    "text_privacy": "Privacy Policy",
+    "text_term": "Terms of Use",
+    "text_and": "and",
+
+    "btn_cancel": "Cancel",
+    "btn_save": "Save"
+  },
+  "resume": {
+    "tool_tip_active_seeking": "The candidate is actively looking for jobs",
+    "No_filter_details": "No filter details",
+    "Nationalities": "Nationalities",
+    "Age": "Age",
+    "Update_date": "Update date",
+    "Form": "Form",
+    "to": "to",
+    "Please_input_a_keyword_or_set_criteria_for_your_search": "Please input a keyword or set criteria for your search",
+    "year_of_experience": "year(s) of experience",
+    "Email_alert_for_your_save_search_is_OFF": "Email alert for your save search is OFF",
+    "Email_alert_for_your_save_search_is_ON": "Email alert for your save search is ON",
+    "Remove_this_saved_search": "Remove this saved search",
+    "Are_you_sure_to_remove_this_saved_search": "Are you sure to remove this saved search ?",
+    "Yes": "Yes",
+    "Cancel": "Cancel",
+    "filter": "Filter",
+    "note_last_page": "*We will not show results beyond this page due to the low level of relevance to what you are searching for. Please refine your search or search with different criteria.",
+    "categories": "Categories",
+    "note_select_itemCategory": "You can only select 3 item(s)",
+    "negotiable": "Negotiable",
+    "add_new_folder_message": "<strong>Success</strong><br>The resume has been moved to",
+    "remove_new_folder_message": "<strong>Success</strong><br>This resume was removed from the folder",
+    "error_new_folder_message": "<strong>Error</strong><br>Please choose folder!",
+    "add_new_folder": "Add new folder",
+    "all": "All",
+    "sort": "Sort",
+    "sortby": "Sort By",
+    "active_seeking": "Active Seeking",
+    "attached_cv": "Attached CV",
+    "latest_company": "Latest company",
+    "just_updated": "Just updated",
+    "updated": "Updated",
+    "buy": "Buy",
+    "search_package": "search package",
+    "to_view_full_information": "to view full information",
+    "year_of_experience": "Year of experience",
+    "years": "year(s)",
+    "expected_salary": "Expected salary",
+    "location": "Location",
+    "viewed": "Viewed",
+    "select_folder": "Select folder",
+    "close": "Close",
+    "save": "Save filter",
+    "save_btn": "Save",
+    "result_found": "Result found",
+    "results_found": "Results found",
+    "search_by_company": "Search by company",
+    "search_by": "Search by",
+    "search_note_1": " You can search with AND OR NOT",
+    "search_note_2": "( ) * to have better results. Learn to use",
+    "here": "here",
+    "search": "Search",
+    "search_note_3": "Use",
+    "search_note_4": ". E.g.",
+    "search_note_5": "IT director",
+    "search_note_6": "to perform an exact search.",
+    "see_more_search_tips": "See more search tips",
+    "choose_categories": "Choose categories",
+    "expected_working_locations": "Expected working locations",
+    "cities_provinces": "Cities/Provinces",
+    "choose_locations": "Choose locations...",
+    "home_address": "Home Address",
+    "choose_home_address": "Choose home address...",
+    "district": "District",
+    "choose_district": "Choose district...",
+    "last_resume_update": "Last resume update",
+    "years_of_experience": "Experience",
+    "from": "From",
+    "to": "To",
+    "salary_range": "Salary range",
+    "job_level": "Job level",
+    "language": "Language",
+    "any": "Any",
+    "language_proficiency": "Language proficiency",
+    "education": "Education",
+    "nationality": "Nationality",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "age": "Age",
+    "saved_search": "Saved Search",
+    "email_alert": "Email alert",
+    "product_manager": "Product Manager",
+    "single": "Single",
+    "cancel": "Cancel",
+    "apply_filter": "Apply Filter",
+    "expected_position": "Expected Position",
+    "expected_job_level": "Expected job level",
+    "birth_day": "Birth day",
+    "marital_status": "Marital status",
+    "latest_position": "Latest position",
+    "highest_education": "Highest Education",
+    "job_categories": "Categories",
+    "job_location": "Location",
+    "reset_all": "Reset All",
+    "credit_used": "Credit used",
+    "copyright": "Copyright",
+    "footer_note_1": "Navigos Group Vietnam Joint Stock Company",
+    "footer_note_2": "Floor 20, E.Town Central, 11 Doan Van Bo Street, Ward 12, District 4, Ho Chi Minh city, Vietnam",
+    "no_data_1": "Your keywords",
+    "no_data_2": "and the current filter don't match any candidate's profile.",
+    "no_data_3": "Let's try to make sure that all words are spelled correctly, use different keywords or apply more general filters.",
+    "successfully_deleted": "Successfully deleted",
+    "please_try_again": "Please try again!",
+    "successfully_saved": "Successfully saved. Email alert for your save search is ON",
+    "validate_year": "Year of experience must be from low to high",
+    "validate_salary": "Salary range must be from low to high",
+    "validate_age": "Age range must be from low to high",
+    "save_folder": "Save",
+    "faq_link": "https://faq.vietnamworks.com/employers-en/resume-search/resume-search-new-version",
+    "view_detail": "View detail"
+  },
+  "notifica_center":{
+    "Notification":"Notification",
+    "Delete":"Delete",
+    "Mark_as_read":"Mark as read",
+    "Mark_as_unread":"Mark as unread",
+    "Mark_all_as_read":"Mark all as read",
+    "All":"All",
+    "Undread":"Unread",
+    "No_notification_found":"No notification found",
+    "Notification_setting":"Notification setting",
+    "Manage_how_you_receive_notifications":"Personalize how you would like to receive all notifications",
+    "Account_Management":{
+      "title":"Account Management",
+      "content":"Stay informed about changes to your account settings, profile updates, and other admin and sub account-related activities."
+    },
+    "Job_Posting_&_Hiring_Process":{
+      "title": "Job Posting & Hiring Process",
+      "content":"Receive notifications for new updates, features within the posted jobs and hiring process"
+    },
+    "Product_and_Order_Management":{
+      "title":"Product and Order Management",
+      "content":"Receive alerts about expiring products or service to avoid interruptions in service and any notifications about Product Order"
+    },
+    "Resume_Management":{
+      "title":"Resume Management",
+      "content":"Discover personalized recommended resumes based on your preferences and usage patterns."
+    },
+    "Application_Management":{
+      "title":"Application Management",
+      "content":"Ensuring you're promptly informed about Application Management"
+    },
+    "Onboarding_Process":{
+      "title":"Onboarding Process",
+      "content":"Stay informed about onboarding process management"
+    },
+    "Reward_and_Memberships_Program":{
+      "title":"Reward and Memberships Program",
+      "content":"Receive notifications exclusive rewards and memberships program offers tailored just for you."
+    },
+    "note":{
+      "title":"note: ",
+      "content":"The notifications will be automatically removed after 60 days"
+    },
+    "save_success":"Successful",
+    "save_false":"Failed"
+  }
+}
